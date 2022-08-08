@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,7 +9,7 @@ using WebApi_Task_3.Models;
 
 namespace WebApi_Task_3.DAL
 {
-    public class APIDbContext:DbContext
+    public class APIDbContext:IdentityDbContext<AppUser>
     {
         public APIDbContext(DbContextOptions<APIDbContext> opt) : base(opt)
         {
@@ -17,6 +18,7 @@ namespace WebApi_Task_3.DAL
 
         public DbSet<Book>  Books{ get; set; }
         public DbSet<Category> Categories { get; set; }
+         
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

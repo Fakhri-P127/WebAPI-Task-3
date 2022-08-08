@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ocNdSOcpXtO1eTzIsk97KV/hCNFQNgcoIyn0Whr4BvzE1c7Gfln4zyYrVY53MMfzI0XLTeLAd5JAwo5H8geeLQ==",
+  "dgSpecHash": "H1QGzFaakUrVgA2SvA9GUDW6ixWZnIk7uf9iKEQow9enqU266MufJCHwHwnW9MPfgtmXApJP/h7B1gm4OlmOOA==",
   "success": true,
   "projectFilePath": "C:\\Users\\efend\\source\\repos\\Backend\\Backend-Homeworks\\WebApi-Task-3\\WebApi-Task-3\\WebApi-Task-3.csproj",
   "expectedPackageFiles": [
@@ -9,6 +9,10 @@
     "C:\\Users\\efend\\.nuget\\packages\\fluentvalidation\\11.1.1\\fluentvalidation.11.1.1.nupkg.sha512",
     "C:\\Users\\efend\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.1.3\\fluentvalidation.aspnetcore.11.1.3.nupkg.sha512",
     "C:\\Users\\efend\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.1.1\\fluentvalidation.dependencyinjectionextensions.11.1.1.nupkg.sha512",
+    "C:\\Users\\efend\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.27\\microsoft.aspnetcore.authentication.jwtbearer.3.1.27.nupkg.sha512",
+    "C:\\Users\\efend\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.27\\microsoft.aspnetcore.cryptography.internal.3.1.27.nupkg.sha512",
+    "C:\\Users\\efend\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.27\\microsoft.aspnetcore.cryptography.keyderivation.3.1.27.nupkg.sha512",
+    "C:\\Users\\efend\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\3.1.27\\microsoft.aspnetcore.identity.entityframeworkcore.3.1.27.nupkg.sha512",
     "C:\\Users\\efend\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\efend\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
     "C:\\Users\\efend\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
@@ -27,6 +31,8 @@
     "C:\\Users\\efend\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.27\\microsoft.extensions.configuration.binder.3.1.27.nupkg.sha512",
     "C:\\Users\\efend\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.27\\microsoft.extensions.dependencyinjection.3.1.27.nupkg.sha512",
     "C:\\Users\\efend\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\efend\\.nuget\\packages\\microsoft.extensions.identity.core\\3.1.27\\microsoft.extensions.identity.core.3.1.27.nupkg.sha512",
+    "C:\\Users\\efend\\.nuget\\packages\\microsoft.extensions.identity.stores\\3.1.27\\microsoft.extensions.identity.stores.3.1.27.nupkg.sha512",
     "C:\\Users\\efend\\.nuget\\packages\\microsoft.extensions.logging\\3.1.27\\microsoft.extensions.logging.3.1.27.nupkg.sha512",
     "C:\\Users\\efend\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.27\\microsoft.extensions.logging.abstractions.3.1.27.nupkg.sha512",
     "C:\\Users\\efend\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",

@@ -88,6 +88,7 @@ namespace WebApi_Task_3.Controllers
             if (category is null) return NotFound();
             _context.Categories.Remove(category);
             await _context.SaveChangesAsync();
+
             return NoContent();
         }
     }

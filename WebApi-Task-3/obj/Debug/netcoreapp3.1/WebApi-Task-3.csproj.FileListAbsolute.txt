@@ -67,3 +67,9 @@ C:\Users\efend\source\repos\Backend\Backend-Homeworks\WebApi-Task-3\WebApi-Task-
 C:\Users\efend\source\repos\Backend\Backend-Homeworks\WebApi-Task-3\WebApi-Task-3\obj\Debug\netcoreapp3.1\WebApi-Task-3.dll
 C:\Users\efend\source\repos\Backend\Backend-Homeworks\WebApi-Task-3\WebApi-Task-3\obj\Debug\netcoreapp3.1\WebApi-Task-3.pdb
 C:\Users\efend\source\repos\Backend\Backend-Homeworks\WebApi-Task-3\WebApi-Task-3\obj\Debug\netcoreapp3.1\WebApi-Task-3.genruntimeconfig.cache
+C:\Users\efend\source\repos\Backend\Backend-Homeworks\WebApi-Task-3\WebApi-Task-3\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\efend\source\repos\Backend\Backend-Homeworks\WebApi-Task-3\WebApi-Task-3\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\efend\source\repos\Backend\Backend-Homeworks\WebApi-Task-3\WebApi-Task-3\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\efend\source\repos\Backend\Backend-Homeworks\WebApi-Task-3\WebApi-Task-3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\efend\source\repos\Backend\Backend-Homeworks\WebApi-Task-3\WebApi-Task-3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\efend\source\repos\Backend\Backend-Homeworks\WebApi-Task-3\WebApi-Task-3\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
